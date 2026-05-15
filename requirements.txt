@@ -1,6 +1,3 @@
-pyautogui
-pynput
 pydirectinput
-pyperclip
-opencv-python
-numpy
+SpeechRecognition
+PyAudio
